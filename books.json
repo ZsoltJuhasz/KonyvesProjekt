@@ -1,0 +1,34 @@
+{
+    "books": [
+        {
+            "id":1,
+            "title": "Mégis mozog a föld",
+            "writer": "Jókai"
+        },
+        {
+            "id": 2,
+            "title": "Aranyember",
+            "writer": "Jókai"
+        },
+        {
+            "id":3,
+            "title": "Felfordult világ",
+            "writer": "Jókai Mór"
+        },
+        {
+            "id":4,
+            "title": "A fekete vér",
+            "writer": "Jókai Mór"
+        },
+        {
+            "id":5,
+            "title": "Erdély aranykora",
+            "writer": "Jókai Mór"
+        },
+        {
+            "id":6,
+            "title": "Ahol a pénz nem isten",
+            "writer": "Jókai Mór"
+        }
+    ]
+}
